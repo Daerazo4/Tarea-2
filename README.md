@@ -1,4 +1,5 @@
 # Tarea-2
+DIEGO ALEXANDER ERAZO SILVA
 ## Objetivos 
  
  ### Objetivo General
@@ -40,4 +41,30 @@ circuitos eléctricos y así comprobar como actúan la resistencia, el voltaje e
 [![26-32.png](https://i.postimg.cc/L668h1S1/26-32.png)](https://postimg.cc/K4w2H4RG)
 
 [![34-36.png](https://i.postimg.cc/yYd77Chh/34-36.png)](https://postimg.cc/V53xFTV5)
+
+### Capitulo 4
+
+[![2-14.png](https://i.postimg.cc/c6yqR2jC/2-14.png)](https://postimg.cc/hQr3gyKR)
+
+[![16-26.png](https://i.postimg.cc/pXzrwHP0/16-26.png)](https://postimg.cc/8jkTvxJW)
+
+[![28-36.png](https://i.postimg.cc/ht0jG1zT/28-36.png)](https://postimg.cc/CRzYPD4x)
+
+## 4.	VIDEO
+
+## 5.	CONCLUCIONES
+- Gracias al análisis y repaso del los capitulos se pudo conocer el concepto de voltaje corriente e intensidad, los cuales son términos claves 
+que fueron aplicados en la resolución de ejercicios.
+
+- La formula general de la ley de ohm nos proporciona la herramienta necesaria para la resolución de varios ejercicios ya que a partir de esta podemos encontrar el voltaje, la corriente y la intensidad dentro de los componentes de un circuito.
+
+- Al determinar los conceptos de energía y potencia se nos facilita comprender como debemos expresar la potencia en función de la energía, enunciar la unidad de potencia también las unidades comunes de energía y el realizar cálculos de energía y potencia.
+
+T## 6.	Bibliografía
+- FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
+
+
+
+
+
 
