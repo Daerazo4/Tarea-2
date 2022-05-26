@@ -60,7 +60,7 @@ que fueron aplicados en la resolución de ejercicios.
 
 - Al determinar los conceptos de energía y potencia se nos facilita comprender como debemos expresar la potencia en función de la energía, enunciar la unidad de potencia también las unidades comunes de energía y el realizar cálculos de energía y potencia.
 
-T## 6.	Bibliografía
+## 6.	Bibliografía
 - FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
 
 
