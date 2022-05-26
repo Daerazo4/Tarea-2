@@ -53,7 +53,7 @@ circuitos eléctricos y así comprobar como actúan la resistencia, el voltaje e
 ## 4.	VIDEO
 
 ## 5.	CONCLUCIONES
-- Gracias al análisis y repaso del los capitulos se pudo conocer el concepto de voltaje corriente e intensidad, los cuales son términos claves 
+- Dado el análisis y repaso del los capitulos se pudo conocer el concepto de voltaje corriente e intensidad, los cuales son términos claves 
 que fueron aplicados en la resolución de ejercicios.
 
 - La formula general de la ley de ohm nos proporciona la herramienta necesaria para la resolución de varios ejercicios ya que a partir de esta podemos encontrar el voltaje, la corriente y la intensidad dentro de los componentes de un circuito.
