@@ -18,7 +18,14 @@ circuitos eléctricos y así comprobar como actúan la resistencia, el voltaje e
 
 ## 2.	MARCO TEORICO
 ### Capítulo 3
-# Ley de Ohm
+- Ley de Ohm
 
 [![Ley-de-ohm-mapa.png](https://i.postimg.cc/VkP7n6XB/Ley-de-ohm-mapa.png)](https://postimg.cc/QHSkrj4H)
+
+### Capítulo 2
+- ENERGÍA Y POTENCIA
+
+[![Energia-y-potencia-mapa.png](https://i.postimg.cc/T16B6Lbt/Energia-y-potencia-mapa.png)](https://postimg.cc/MM990GdB)
+
+## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
 
